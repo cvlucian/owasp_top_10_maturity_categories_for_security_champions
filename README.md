@@ -1,4 +1,4 @@
-# OWASP top 10 Maturity Categories for Security Champions
+# OWASP Top 10 Maturity Categories for Security Champions
 
 You have heard of this term - Security Champions or was it Satellites (that sounds weird..)? 
 
