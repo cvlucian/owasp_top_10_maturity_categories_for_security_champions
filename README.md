@@ -1,4 +1,4 @@
-# owasp_top_10_maturity_levels_for_security_champions
+OWASP top 10 Maturity Levels for Security Champions
 
 You have heard of this term - Security Champions or was it Satellites (that sounds weird..)? But what are they really? Is it a good idea? How many companies are doing this? If you're convinces it needs to be done, how do you manage a Security Champions programme (at scale)? What methods and tools exist? This presentation is introducing the new OWASP Top 10 Maturity Categories for Security Champions - method and tool.
 
