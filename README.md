@@ -39,6 +39,9 @@ M three – 3 points
 – 5 points
 
 # Tool - Coming soon...
+Developed by Graduate Devs in Sage. 
+In the meantime, please use the Calculator in Sheet 2 here: 
+https://docs.google.com/spreadsheets/d/1Dfb-wDPqqpTDejEnIxmv9MWyFDD0gUsJf-45zrJ-GKs/edit?usp=sharing
 
 # Want to contribute?
 Contribute here: 
