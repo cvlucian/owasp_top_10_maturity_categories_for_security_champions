@@ -50,3 +50,5 @@ https://docs.google.com/spreadsheets/d/1Dfb-wDPqqpTDejEnIxmv9MWyFDD0gUsJf-45zrJ-
 # Resources 
 Presentation here:
 https://drive.google.com/file/d/1UQqgqPxk-W50fOS1wKgpWiBfWQYZYMHR/view?usp=sharing
+Newer presentation here: 
+https://docs.google.com/presentation/d/19k9NafiDJjl81sN9Ufp8NENS1-TttPyVIgilavgbzFg/edit?usp=sharing
