@@ -26,7 +26,7 @@ Check the contribution sheet below for the detail.
 7. Research (M123)
 8. Development for security (M123) 
 9. Reporting (M123)
-10.Threat Modelling (M123)
+10. Threat Modelling (M123)
 
 # How to award?
 Maturityone – 1 point 
